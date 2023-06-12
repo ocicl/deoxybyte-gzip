@@ -1,0 +1,10 @@
+* deoxybyte-gzip
+
+Common Lisp interface to zlib via CFFI.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/keithj/deoxybyte-gzip.git   |
+| commit  | 94fcebe  |
+| systems | deoxybyte-gzip |
+|---------+-------------------------------------------|
+
