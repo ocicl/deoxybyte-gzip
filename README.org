@@ -7,3 +7,4 @@ Common Lisp interface to zlib via CFFI.
 | commit  | 4bec97e                                          |
 | systems | deoxybyte-gzip                                   |
 |---------+--------------------------------------------------|
+ 
